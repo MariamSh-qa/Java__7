@@ -1,7 +1,4 @@
 # Abstract Classes & Abstract Methods in Java
-
-> A beginner-friendly explanation, like you're 5 😊
-
 ## Table of Contents
 
 1. [Imagine a family of animals](#1-imagine-a-family-of-animals-)
